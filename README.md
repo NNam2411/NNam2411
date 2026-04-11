@@ -1,13 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnam2411&label=Profile%20views&color=0e75b6&style=flat" alt="nnam2411" /> </p>
  
-<h3 align="center">My name is Nhat Nam and I am a Front-End Developer</h3>
+<h3 align="center">My name is Nguyen Hoang Nhat Nam and I am a Software Engineer</h3>
 
 <hr/>
 <div align="center">
     
- 🔭 I’m currently a **4th Year Student**
+ 🔭 Graduated from HCMC University of Technology and Engineering
  
- 🌱 I’m currently learning **NodeJS, NestJS**
+ 🌱 Junior Fullstack Engineeer
  </div>
  
 <hr/>
